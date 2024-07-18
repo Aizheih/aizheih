@@ -120,7 +120,7 @@
 </li>
 </ul>
 <p>​													图四 自反思过程</p>
-<h3 id="4-2-实验"><a href="#4-2-实验" class="headerlink" title="4.2 实验"></a>4.2 实验</h3><h4 id="4-2-1-评估"><a href="#4-2-1-评估" class="headerlink" title="4.2.1 评估"></a><strong>4.2.1 评估</strong></h4><ul>
+<h3 id="4-2-实验"><a href="#4-2-实验" class="headerlink" title="**4.2 **实验"></a>**4.2 **实验</h3><h4 id="4-2-1-评估"><a href="#4-2-1-评估" class="headerlink" title="4.2.1 评估"></a><strong>4.2.1 评估</strong></h4><ul>
 <li>使用Amazon Mechanical Turk进行人工评估</li>
 <li><strong>问题一致性和偏离主题的人工评估</strong>：在<strong>样本级别</strong>进行，注释者将每个答案分类为“查询不一致”、“偏离主题”或“蕴含”。</li>
 <li><strong>事实一致性的人工评估</strong>：在<strong>句子级别</strong>进行，注释者将每个句子分类为“事实不一致”、“事实一致”或“通用”。</li>
